@@ -37,7 +37,9 @@ const TodoCard = () => {
               <DateText>
                 {todo.completed
                   ? "Completed"
-                  : `Added on ${dayjs(todo.date).format("DD MMM YYYY, h:m A")}`}
+                  : `Added on ${dayjs(todo.date).format(
+                      "DD MMM YYYY, hh:mm A"
+                    )}`}
               </DateText>
               <CardBody>
                 <CheckContainer>
