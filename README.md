@@ -1,3 +1,11 @@
+# Demo
+
+Mobile view
+![mobileDemo](https://user-images.githubusercontent.com/43380498/153759418-267f4c2b-4439-4681-83c5-4df6a455e233.gif)
+
+Web view
+![webDemo](https://user-images.githubusercontent.com/43380498/153759425-38dc7931-6640-4aff-8b80-fb89550edba5.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
